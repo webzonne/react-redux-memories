@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-redux-memories/static/css/main.44729136.css",
+    "main.js": "/react-redux-memories/static/js/main.d44b6fde.js",
+    "static/media/memories.png": "/react-redux-memories/static/media/memories.9cfa8a4697e085d87136.png",
+    "index.html": "/react-redux-memories/index.html",
+    "main.44729136.css.map": "/react-redux-memories/static/css/main.44729136.css.map",
+    "main.d44b6fde.js.map": "/react-redux-memories/static/js/main.d44b6fde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44729136.css",
+    "static/js/main.d44b6fde.js"
+  ]
+}
